@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+Personal
+bin/
+lib64
+pyvenv.cfg  
