@@ -91,4 +91,7 @@ ENV/
 Personal
 bin/
 lib64
-pyvenv.cfg  
+pyvenv.cfg
+include/
+pip-selfcheck.json
+share/
